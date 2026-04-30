@@ -13,4 +13,4 @@ La multiplicación (x):
 2 x 8 = 16
 
 La división (/):
-10/5 = 2
+15/3 = 5
