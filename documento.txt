@@ -14,3 +14,9 @@ La multiplicación (x):
 
 La división (/):
 8/2 = 4
+
+El exponente (^):
+4^3 = 64
+
+El módulo (%):
+13 % 4 = 1
