@@ -1,0 +1,15 @@
+Hola Mundo :)
+Fecha: 20.04.2025
+Titullo: Las operaciones Aritmmetycas
+------------------------------------
+
+La suma (+):
+4 + 3 = 7
+
+La resta (-):
+3 - 9 = -6
+
+La multiplikasion (x):
+2 x 8 = 14
+
+La dibicion
