@@ -13,4 +13,14 @@ La multiplicación (x):
 2 x 8 = 16
 
 La división (/):
+<<<<<<< HEAD
 15/3 = 5
+=======
+8/2 = 4
+
+El exponente (^):
+4^3 = 64
+
+El módulo (%):
+13 % 4 = 1
+>>>>>>> ece25d6671418c5c6d624e5bbcd0008d26b89717
